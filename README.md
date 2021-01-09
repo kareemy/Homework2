@@ -13,12 +13,14 @@ Sanatorium. Your app should meet the following requirements:
 7. User should be able to **remove** a patient from the database. Use a separate method.
 8. You do not need to validate user input...yet.
 9. The following patient records should already be stored in the database at the start:
+
   | First Name  | Last Name   | Age | Gender | Admit Date | Had Exam? |
   | ----------- | ----------- | --- | ------ | ---------- | --------- |
   | Roxie       | Hart        | 34  | F      | 5/28/1924  | Y         |
   | Grace       | Bertrand    | 24  | F      | 1/15/1939  | Y         |
   | Harold      | Hill        | 52  | M      | 7/1/1943   | N         |
   | Herman      | Dietrich    | 47  | M      | 9/12/1936  | Y         |
+
 10. Please remember to comment your code. Add small, one line comments explaining each task. Add more detailed comments to highlight new things you learned and challenges you encountered and how you overcame them.
 
 ## Useful Entity Framework Core Tutorials
