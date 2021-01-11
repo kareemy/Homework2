@@ -44,5 +44,5 @@ We will create the database with `db.Database.EnsureCreated()` instead of migrat
     git push
     git status
     ```
-4. Verify that your changes are on GitHub.
+5. Verify that your changes are on GitHub.
 6. Congratulations! Your assignment is complete.
