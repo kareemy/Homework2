@@ -7,9 +7,9 @@ Sanatorium. Your app should meet the following requirements:
 1. Start by cloning this assignment repository into VS Code.
 2. The app should be a console app with Entity Framework Core using a SQLite database.
 3. Create a model to store the patient’s first name, last name, age, gender, admittance date, and whether or not they have had an examination with the doctor. Use the appropriate data types.
-4. User should be able to **add** a new patient along with all the information from step 2 to the database. Put this functionality in a separate method that you call.
+4. User should be able to **add** a new patient along with all the information from step 3 to the database. Put this functionality in a separate method that you call.
 5. User should be able to **list** all patients. This should print out every patient and their information to the console. Use a separate method.
-6. User should be able to **update** a patient record and change any of their information from step 2. Use a separate method.
+6. User should be able to **update** a patient record and change any of their information from step 3. Use a separate method.
 7. User should be able to **remove** a patient from the database. Use a separate method.
 8. You do not need to validate user input...yet.
 9. The following patient records should already be stored in the database at the start:
